@@ -1,0 +1,48 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+.nav {
+  display: flex;
+  gap: 20px;
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+}
+
+.introduce{
+  background-color: rgba(161, 181, 157, 0.532);
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 15px;
+  font-size: 20px;
+}
+ul{
+  font-size:20px;
+}
+
+.like{
+  font-size: 20px;
+}
+.hate{
+  font-size: 20px;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+button{
+  background-color: rgb(163, 180, 163);
+  color: aliceblue;
+  border: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+footer{
+  gap: 20px;
+  color: rgb(159, 159, 159);
+}
